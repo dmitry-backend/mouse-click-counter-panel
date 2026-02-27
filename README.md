@@ -6,9 +6,9 @@ It’s a simple, interactive frontend web project that demonstrates basic DOM ma
 The project also supports keyboard interactions using the arrow keys.
 
 ## Tech Stack
-- HTML5 — defines the structure of the counter panel
-- CSS3 — styles the layout, buttons, and visual appearance
-- JavaScript (Vanilla JS) — adds interactivity and dynamic counter logic
+- HTML5
+- CSS3
+- JavaScript (ES6+)
 
 ## Features
 - Increment counter using the "+" button or ArrowUp key
