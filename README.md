@@ -20,9 +20,11 @@ The project also supports keyboard interactions using the arrow keys.
 ## Project Structure
 ```text
 Counter-Panel/
-├─ index.html
-├─ styles.css
-└─ script.js
+├── index.html
+├── styles.css
+├── script.js
+├── README.md
+└── LICENSE
 ```
 
 ## Installation
