@@ -19,7 +19,7 @@ The project also supports keyboard interactions using the arrow keys.
 
 ## Project Structure
 ```text
-Counter-Panel/
+mouse-click-counter-panel/
 ├── index.html
 ├── styles.css
 ├── script.js
